@@ -17,9 +17,19 @@ At the age of 30, I consider one of my strengths the absence of fear of the unkn
 * Editors: VSCode
 
 ## Code Example
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ## Experience
+Civil engineer by education. I work in the construction industry. 
 
 ## Education
 * __University:__ Brest State Technical University, faculty of Civil Engineering
 * __Courses:__ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages
+* Russian - native
+* English - level A2
